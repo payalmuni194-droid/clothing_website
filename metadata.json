@@ -1,0 +1,6 @@
+{
+  "name": "Modern Men's Wear Store",
+  "description": "A luxury men's fashion e-commerce platform with RBAC dashboards (Super Admin, Store Manager, Customer), interactive lookbook, full checkout, order tracking, and AI outfit stylist.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
